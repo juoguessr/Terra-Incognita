@@ -1,0 +1,8 @@
+Terra Incognita — site pret a publier
+
+Netlify : ouvrez app.netlify.com/drop et glissez ce dossier entier (celui qui contient index.html).
+GitHub Pages : deposez tout le contenu de ce dossier a la racine d'un depot, puis Settings > Pages > Deploy from a branch (main, / root).
+En local : servez le dossier (ex. python3 -m http.server), pas en double-clic.
+
+Cartes : David Rumsey Map Collection et Library of Congress (images en ligne, internet necessaire).
+Noms : Text on Maps / MapKurator (Stanford, UMN, Lancaster, CC BY 4.0). Atlas : OpenHistoricalMap (CC0).
